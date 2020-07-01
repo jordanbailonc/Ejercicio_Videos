@@ -1,0 +1,39 @@
+C:\Users\Moi\source\repos\Exercise_Videos\bin\Debug\netcoreapp3.1\Exercise_Videos.exe
+C:\Users\Moi\source\repos\Exercise_Videos\bin\Debug\netcoreapp3.1\Exercise_Videos.deps.json
+C:\Users\Moi\source\repos\Exercise_Videos\bin\Debug\netcoreapp3.1\Exercise_Videos.runtimeconfig.json
+C:\Users\Moi\source\repos\Exercise_Videos\bin\Debug\netcoreapp3.1\Exercise_Videos.runtimeconfig.dev.json
+C:\Users\Moi\source\repos\Exercise_Videos\bin\Debug\netcoreapp3.1\Exercise_Videos.dll
+C:\Users\Moi\source\repos\Exercise_Videos\bin\Debug\netcoreapp3.1\Exercise_Videos.pdb
+C:\Users\Moi\source\repos\Exercise_Videos\obj\Debug\netcoreapp3.1\Exercise_Videos.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\Exercise_Videos\obj\Debug\netcoreapp3.1\Exercise_Videos.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Exercise_Videos\obj\Debug\netcoreapp3.1\Exercise_Videos.AssemblyInfoInputs.cache
+C:\Users\Moi\source\repos\Exercise_Videos\obj\Debug\netcoreapp3.1\Exercise_Videos.AssemblyInfo.cs
+C:\Users\Moi\source\repos\Exercise_Videos\obj\Debug\netcoreapp3.1\Exercise_Videos.dll
+C:\Users\Moi\source\repos\Exercise_Videos\obj\Debug\netcoreapp3.1\Exercise_Videos.pdb
+C:\Users\Moi\source\repos\Exercise_Videos\obj\Debug\netcoreapp3.1\Exercise_Videos.genruntimeconfig.cache
+C:\Users\JORDAN\Desktop\ex-videos-master\bin\Debug\netcoreapp3.1\Exercise_Videos.exe
+C:\Users\JORDAN\Desktop\ex-videos-master\bin\Debug\netcoreapp3.1\Exercise_Videos.deps.json
+C:\Users\JORDAN\Desktop\ex-videos-master\bin\Debug\netcoreapp3.1\Exercise_Videos.runtimeconfig.json
+C:\Users\JORDAN\Desktop\ex-videos-master\bin\Debug\netcoreapp3.1\Exercise_Videos.runtimeconfig.dev.json
+C:\Users\JORDAN\Desktop\ex-videos-master\bin\Debug\netcoreapp3.1\Exercise_Videos.dll
+C:\Users\JORDAN\Desktop\ex-videos-master\bin\Debug\netcoreapp3.1\Exercise_Videos.pdb
+C:\Users\JORDAN\Desktop\ex-videos-master\obj\Debug\netcoreapp3.1\Exercise_Videos.csprojAssemblyReference.cache
+C:\Users\JORDAN\Desktop\ex-videos-master\obj\Debug\netcoreapp3.1\Exercise_Videos.csproj.CoreCompileInputs.cache
+C:\Users\JORDAN\Desktop\ex-videos-master\obj\Debug\netcoreapp3.1\Exercise_Videos.AssemblyInfoInputs.cache
+C:\Users\JORDAN\Desktop\ex-videos-master\obj\Debug\netcoreapp3.1\Exercise_Videos.AssemblyInfo.cs
+C:\Users\JORDAN\Desktop\ex-videos-master\obj\Debug\netcoreapp3.1\Exercise_Videos.dll
+C:\Users\JORDAN\Desktop\ex-videos-master\obj\Debug\netcoreapp3.1\Exercise_Videos.pdb
+C:\Users\JORDAN\Desktop\ex-videos-master\obj\Debug\netcoreapp3.1\Exercise_Videos.genruntimeconfig.cache
+C:\Users\JORDAN\Desktop\ejercicio videos\bin\Debug\netcoreapp3.1\Exercise_Videos.exe
+C:\Users\JORDAN\Desktop\ejercicio videos\bin\Debug\netcoreapp3.1\Exercise_Videos.deps.json
+C:\Users\JORDAN\Desktop\ejercicio videos\bin\Debug\netcoreapp3.1\Exercise_Videos.runtimeconfig.json
+C:\Users\JORDAN\Desktop\ejercicio videos\bin\Debug\netcoreapp3.1\Exercise_Videos.runtimeconfig.dev.json
+C:\Users\JORDAN\Desktop\ejercicio videos\bin\Debug\netcoreapp3.1\Exercise_Videos.dll
+C:\Users\JORDAN\Desktop\ejercicio videos\bin\Debug\netcoreapp3.1\Exercise_Videos.pdb
+C:\Users\JORDAN\Desktop\ejercicio videos\obj\Debug\netcoreapp3.1\Exercise_Videos.csprojAssemblyReference.cache
+C:\Users\JORDAN\Desktop\ejercicio videos\obj\Debug\netcoreapp3.1\Exercise_Videos.csproj.CoreCompileInputs.cache
+C:\Users\JORDAN\Desktop\ejercicio videos\obj\Debug\netcoreapp3.1\Exercise_Videos.AssemblyInfoInputs.cache
+C:\Users\JORDAN\Desktop\ejercicio videos\obj\Debug\netcoreapp3.1\Exercise_Videos.AssemblyInfo.cs
+C:\Users\JORDAN\Desktop\ejercicio videos\obj\Debug\netcoreapp3.1\Exercise_Videos.dll
+C:\Users\JORDAN\Desktop\ejercicio videos\obj\Debug\netcoreapp3.1\Exercise_Videos.pdb
+C:\Users\JORDAN\Desktop\ejercicio videos\obj\Debug\netcoreapp3.1\Exercise_Videos.genruntimeconfig.cache
